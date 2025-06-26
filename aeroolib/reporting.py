@@ -37,7 +37,6 @@ __metaclass__ = type
 
 import os, sys
 
-import pkg_resources
 from genshi.template import TemplateLoader
 
 def _absolute(path):
